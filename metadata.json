@@ -1,0 +1,6 @@
+{
+  "name": "Supervisi Pembelajaran SMKN 1 Purbalingga",
+  "description": "Aplikasi Instrumen Supervisi Akademik: Perencanaan & Asesmen, Pelaksanaan Pembelajaran Mendalam (PPA 2025), dan Rekapitulasi RTL Guru SMK Negeri 1 Purbalingga",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
